@@ -1,5 +1,6 @@
-## Hi there 👋
+## 👋 Hi, I'm Luke Houghton! 
 
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-LukeHoughton.dev-blue)](https://www.lukehoughton.dev)
 <!--
 **FlutterDoctor/FlutterDoctor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
